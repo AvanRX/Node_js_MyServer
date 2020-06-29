@@ -1,0 +1,19 @@
+{
+  "name": "node_js_myserver",
+  "version": "1.0.0",
+  "description": "My 1st Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvanRX/Node_js_MyServer.git"
+  },
+  "author": "AvanRX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvanRX/Node_js_MyServer/issues"
+  },
+  "homepage": "https://github.com/AvanRX/Node_js_MyServer#readme"
+}
