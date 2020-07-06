@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AvanRX/Node_js_MyServer/issues"
   },
-  "homepage": "https://github.com/AvanRX/Node_js_MyServer#readme"
+  "homepage": "https://github.com/AvanRX/Node_js_MyServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
